@@ -3,7 +3,7 @@ Rede social principal ⤵️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arlonmh)
 
-### ◾ Linguagens, SO's e navegadores ⤵️
+### ◾ Linguagens e SO's ⤵️
 <div style = "display: inline_block"><br/>
     <img aling = "center" alt = "ling.c" src = "https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><br/>
     <img aling = "center" alt = "ubuntu" src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -15,5 +15,6 @@ Rede social principal ⤵️
 
 ### ◾Estudos e pesquisas ⤵️
 ![OSINT](https://img.shields.io/badge/OSINT-blue)
-![Deep Web](https://img.shields.io/badge/DeepWeb-blue)
-![Deep Web](https://img.shields.io/badge/GoogleSheets-green)
+![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+<!-- ![Deep Web](https://img.shields.io/badge/DeepWeb-blue)
+<!-- ![Google Sheets](https://img.shields.io/badge/GoogleSheets-green)
